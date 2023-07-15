@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Humberto Barrera (@HumbertoBarrera), a soon Software Engineer with Software Development specialization. 
+- 👋 Hi, I’m Humberto Barrera (@HumbertoBarrera), a Software Engineer with Software Development specialization. 
 - 👀 I’m interested in backend but also data science.
-- 🌱 I’m currently learning FastAPI and Django Template
-- 📫 How to reach me through https://www.linkedin.com/in/humbertobarrera/
+- 🌱 I've worked with Python, FastAPI, Django and JavaScript
+- 📫 You can contact me trhough https://www.linkedin.com/in/humbertobarrera/ or my email humbertobarcam@gmail.com
